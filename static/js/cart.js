@@ -33,4 +33,6 @@ function updateUserOrder(productId, action) {
     
 }
 
-console.log ('Eddie is the  coolest programmer and an aspiring billionare and rollys royce buyer')
+console.log ('Eddie is the  coolest programmer in kenya and an aspiring billionare and rollys royce buyer')
+console.log('warrup pandeos!')
+console.log('asalam aleikum!')
